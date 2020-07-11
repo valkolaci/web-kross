@@ -1,5 +1,5 @@
 # default configuration
-baseURL = "/web-kross"
+baseURL = "/web-kross/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
